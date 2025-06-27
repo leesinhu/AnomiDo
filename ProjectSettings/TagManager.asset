@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Back
+  - Front
+  - Body
+  - NPC
+  - Object
+  - Fog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall_Station
+  - Water
+  - UI
+  - Body
+  - Front
+  - Back
+  - Up
+  - Player_Station
+  - PlayerFoot
+  - PlayerFront
+  - 
+  - 
+  - 
+  - 
+  - Gate
+  - Item
+  - SpawnPoint
+  - Player_Battle
+  - View
+  - Enemy
+  - Shadow
+  - AttackRange
+  - HitBox
+  - Parried
+  - Wall_Battle
+  - Fall
+  - PushWall
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3054080677
+    locked: 0
+  - name: Shadow
+    uniqueID: 3516247281
+    locked: 0
+  - name: EnvirObject
+    uniqueID: 2599059611
+    locked: 0
+  - name: 
+    uniqueID: 2094761479
+    locked: 0
+  - name: Frontground
+    uniqueID: 1377865375
+    locked: 0
+  - name: Mark
+    uniqueID: 225989593
+    locked: 0
+  - name: 
+    uniqueID: 3679655925
+    locked: 0
+  - name: 
+    uniqueID: 3473382757
+    locked: 0
+  - name: 
+    uniqueID: 2819016793
+    locked: 0
+  - name: Field
+    uniqueID: 2895672797
+    locked: 0
+  - name: Structure
+    uniqueID: 872048273
+    locked: 0
+  - name: Organism
+    uniqueID: 2221317539
+    locked: 0
